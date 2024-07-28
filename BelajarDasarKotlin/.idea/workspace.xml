@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/App/TodoListApp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/Entity/TodoList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/Repository/TodoListRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/Repository/TodoListRepositoryImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/Services/TodoListServiceImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/Services/TodoListServices.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/Util/InputUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectD/view/TodoListView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\php8\php-8.3.0-Win32-vs16-x64\php.exe" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2j9OsXqhChBCwTmT3h95Ea1V8qi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "Kotlin.AbstractClassKt.executor": "Run",
+    "Kotlin.AbstractPropertiesAndFunctionKt.executor": "Run",
+    "Kotlin.AnonymousFunctionKt.executor": "Run",
+    "Kotlin.AnyClassKt.executor": "Run",
+    "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.BreakAndContinoueKt.executor": "Run",
+    "Kotlin.CharKt.executor": "Run",
+    "Kotlin.ClosureKt.executor": "Run",
+    "Kotlin.ConstructorKt.executor": "Run",
+    "Kotlin.DataClassKt.executor": "Run",
+    "Kotlin.DoWhileKt.executor": "Run",
+    "Kotlin.EqualsKt.executor": "Run",
+    "Kotlin.ExtensionFunctionKt.executor": "Run",
+    "Kotlin.ExtensionFunctonKt.executor": "Run",
+    "Kotlin.FactorialKt.executor": "Run",
+    "Kotlin.ForKt.executor": "Run",
+    "Kotlin.ForRangeKt.executor": "Run",
+    "Kotlin.FunctionDefaultParamKt.executor": "Run",
+    "Kotlin.FunctionNamedArgumentKt.executor": "Run",
+    "Kotlin.FunctionOverloadingKt.executor": "Debug",
+    "Kotlin.FunctionReturnTypeKt.executor": "Run",
+    "Kotlin.FunctionScopeKt.executor": "Run",
+    "Kotlin.FunctionVarArgsParameterKt.executor": "Run",
+    "Kotlin.FunctionsClassKt.executor": "Run",
+    "Kotlin.FunctionsKt.executor": "Run",
+    "Kotlin.FunctionsParameterKt.executor": "Run",
+    "Kotlin.GetSetKt.executor": "Run",
+    "Kotlin.GetterSetterKt.executor": "Run",
+    "Kotlin.HashCodeKt.executor": "Run",
+    "Kotlin.HelloWorldKt.executor": "Run",
+    "Kotlin.HigherOrderFunctionsKt.executor": "Run",
+    "Kotlin.IfExpresionKt.executor": "Run",
+    "Kotlin.InfixNotationKt.executor": "Run",
+    "Kotlin.InheritanceKt.executor": "Run",
+    "Kotlin.InlineFunctionsKt.executor": "Run",
+    "Kotlin.InterfaceKt.executor": "Run",
+    "Kotlin.KalkulatorKt.executor": "Run",
+    "Kotlin.LabelKt.executor": "Run",
+    "Kotlin.LambdaExpressionKt.executor": "Run",
+    "Kotlin.LambdaMethodReferencesKt.executor": "Run",
+    "Kotlin.LateInitializedPropertiesKt.executor": "Run",
+    "Kotlin.MainInheritanceKt (1).executor": "Run",
+    "Kotlin.MainInheritanceKt.executor": "Run",
+    "Kotlin.MainParameterKt.executor": "Run",
+    "Kotlin.MathOperatorKt.executor": "Run",
+    "Kotlin.NumberKt.executor": "Run",
+    "Kotlin.ObjectKt.executor": "Run",
+    "Kotlin.OperasiBooleanKt.executor": "Run",
+    "Kotlin.OperasiPerbandinganKt.executor": "Run",
+    "Kotlin.PackageKt.executor": "Run",
+    "Kotlin.PropertiesConstructorKt.executor": "Run",
+    "Kotlin.PropertiesOverridingKt.executor": "Run",
+    "Kotlin.RangeKt.executor": "Run",
+    "Kotlin.RecursiveFunctionsKt.executor": "Run",
+    "Kotlin.ReturnIfWhenKt.executor": "Run",
+    "Kotlin.SealedClassKt.executor": "Run",
+    "Kotlin.SecondaryconstructorKt.executor": "Run",
+    "Kotlin.SingleExpressionFuncrtionKt.executor": "Run",
+    "Kotlin.StringKt.executor": "Run",
+    "Kotlin.SuperConstructorKt.executor": "Run",
+    "Kotlin.SuperKeywordKt.executor": "Run",
+    "Kotlin.TailRecursiveFunctionsKt.executor": "Run",
+    "Kotlin.ThisKeywordKt.executor": "Run",
+    "Kotlin.ToStringKt.executor": "Run",
+    "Kotlin.TodoListAppKt.executor": "Run",
+    "Kotlin.TrailingLambdaKt.executor": "Run",
+    "Kotlin.TypeCheckKt.executor": "Run",
+    "Kotlin.UnitReturningFunctionsKt.executor": "Run",
+    "Kotlin.VariableKt.executor": "Run",
+    "Kotlin.VisibilityModifierKt.executor": "Run",
+    "Kotlin.WhenExpressionKt.executor": "Run",
+    "Kotlin.WhileKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/LearnKotlin/BelajarDasarKotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\oop\kotlin\app" />
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src" />
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\kotlin\dasar" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="belajar.oop.kotlin.app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.TodoListAppKt">
+    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.DataClassKt" />
+      <module name="BelajarDasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtensionFunctonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.ExtensionFunctonKt" />
+      <module name="BelajarDasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SealedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.SealedClassKt" />
+      <module name="BelajarDasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoListAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectD.App.TodoListAppKt" />
+      <module name="BelajarDasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisibilityModifierKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.VisibilityModifierKt" />
+      <module name="BelajarDasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.TodoListAppKt" />
+      <item itemvalue="Kotlin.DataClassKt" />
+      <item itemvalue="Kotlin.ExtensionFunctonKt" />
+      <item itemvalue="Kotlin.SealedClassKt" />
+      <item itemvalue="Kotlin.VisibilityModifierKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TodoListAppKt" />
+        <item itemvalue="Kotlin.SealedClassKt" />
+        <item itemvalue="Kotlin.DataClassKt" />
+        <item itemvalue="Kotlin.ExtensionFunctonKt" />
+        <item itemvalue="Kotlin.VisibilityModifierKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="" />
+      <created>1720796043490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720796043490</updated>
+      <workItem from="1720796044552" duration="4775000" />
+      <workItem from="1720801020454" duration="3369000" />
+      <workItem from="1721567577771" duration="15240000" />
+      <workItem from="1721588923235" duration="4000" />
+      <workItem from="1721978914526" duration="827000" />
+      <workItem from="1721979768378" duration="8596000" />
+      <workItem from="1721988433269" duration="5638000" />
+      <workItem from="1722129657500" duration="10248000" />
+      <workItem from="1722158222581" duration="67000" />
+      <workItem from="1722158415817" duration="4523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/Range.kt</url>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/MathOperator.kt</url>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/FunctionVarArgsParameter.kt</url>
+          <line>10</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/InlineFunctions.kt</url>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/object.kt</url>
+          <line>4</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/propertiesOverriding.kt</url>
+          <line>6</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/TypeCheck.kt</url>
+          <line>44</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractClass.kt</url>
+          <line>6</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/ExtensionFunction.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/TailRecursiveFunctions.kt</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
