@@ -6,6 +6,9 @@ class Company(val name: String) {
             is Company -> other.name == this.name
             else -> false
         }
+    }
 
+    override fun hashCode(): Int {
+        return name.hashCode()
     }
 }
