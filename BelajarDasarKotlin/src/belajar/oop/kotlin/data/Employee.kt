@@ -31,6 +31,6 @@ class SuperManager(name: String) : Manager(name) {
 class VicePresident(name: String) : Employee (name)
 {
     override fun sayHello(name : String) {
-        println("Hello $name, My name is Manager ${this.name}")
+        println("Hello $name, My name is Vice President ${this.name}")
     }
 }
