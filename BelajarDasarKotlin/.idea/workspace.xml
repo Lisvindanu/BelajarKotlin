@@ -5,49 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/Exception/ValidationException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/annotations/Beta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/annotations/Fancy.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/annotations/NotBlank.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/Annotation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/AnonymousClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/Delegation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/DestructuringDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/Enum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/Exception.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/InlineClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/InnerClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/LazyProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/NullSafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/ObservableProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/OperatorOverloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/Polimorphism.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/Reflection.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/ScopeFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/SingletonObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/TypeAlias.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Account.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Action.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Base.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Boss.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/CreateProductRequest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Fruit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Gender.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Login.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/MinMax.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Student1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Token.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Utilities.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data2/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/program/MyApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BelajarDasarKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BelajarDasarKotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/META-INF/BelajarDasarKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/META-INF/BelajarDasarKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/VicePresident.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/VicePresident.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Employee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/data/Employee.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Faktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Faktorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Recursif.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Recursif.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ComparableInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ComparableInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Contravariant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Contravariant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Covariant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Covariant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericConstraint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericConstraint.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericExtentionFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericExtentionFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Invariant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Invariant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ObservableProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ObservableProperty.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadOnlyProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadOnlyProperty.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadWriteProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadWriteProperty.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/StarProjection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/StarProjection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeErasure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeErasure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeProjection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeProjection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Fruit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Fruit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/MyData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/MyData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +40,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Enum" />
         <option value="Kotlin Object" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Annotation" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,6 +60,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractClass.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\php8\php-8.3.0-Win32-vs16-x64\php.exe" />
   <component name="ProblemsViewState">
@@ -101,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Faktorial.executor": "Run",
     "Application.Test.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "Kotlin.AbstractClassKt.executor": "Run",
@@ -114,7 +98,10 @@
     "Kotlin.BreakAndContinoueKt.executor": "Run",
     "Kotlin.CharKt.executor": "Run",
     "Kotlin.ClosureKt.executor": "Run",
+    "Kotlin.ComparableInterfaceKt.executor": "Run",
     "Kotlin.ConstructorKt.executor": "Run",
+    "Kotlin.ContravariantKt.executor": "Run",
+    "Kotlin.CovariantKt.executor": "Run",
     "Kotlin.DataClassKt.executor": "Run",
     "Kotlin.DelegationKt.executor": "Run",
     "Kotlin.DestructuringDeclarationKt.executor": "Run",
@@ -128,6 +115,7 @@
     "Kotlin.ForKt.executor": "Run",
     "Kotlin.ForRangeKt.executor": "Run",
     "Kotlin.FunctionDefaultParamKt.executor": "Run",
+    "Kotlin.FunctionKt.executor": "Run",
     "Kotlin.FunctionNamedArgumentKt.executor": "Run",
     "Kotlin.FunctionOverloadingKt.executor": "Debug",
     "Kotlin.FunctionReturnTypeKt.executor": "Run",
@@ -136,6 +124,9 @@
     "Kotlin.FunctionsClassKt.executor": "Run",
     "Kotlin.FunctionsKt.executor": "Run",
     "Kotlin.FunctionsParameterKt.executor": "Run",
+    "Kotlin.GenericClassKt.executor": "Run",
+    "Kotlin.GenericExtentionFunctionsKt.executor": "Run",
+    "Kotlin.GenericFunctionsKt.executor": "Run",
     "Kotlin.GetSetKt.executor": "Run",
     "Kotlin.GetterSetterKt.executor": "Run",
     "Kotlin.HashCodeKt.executor": "Run",
@@ -163,6 +154,7 @@
     "Kotlin.NumberKt.executor": "Run",
     "Kotlin.ObjectKt.executor": "Run",
     "Kotlin.ObservablePropertiesKt.executor": "Run",
+    "Kotlin.ObservablePropertyKt.executor": "Run",
     "Kotlin.OperasiBooleanKt.executor": "Run",
     "Kotlin.OperasiPerbandinganKt.executor": "Run",
     "Kotlin.OperatorOverloadingKt.executor": "Run",
@@ -171,6 +163,9 @@
     "Kotlin.PropertiesConstructorKt.executor": "Run",
     "Kotlin.PropertiesOverridingKt.executor": "Run",
     "Kotlin.RangeKt.executor": "Run",
+    "Kotlin.ReadOnlyPropertyKt.executor": "Run",
+    "Kotlin.ReadWritePropertyKt.executor": "Run",
+    "Kotlin.RecursifKt.executor": "Run",
     "Kotlin.RecursiveFunctionsKt.executor": "Run",
     "Kotlin.ReflectionKt.executor": "Run",
     "Kotlin.ReturnIfWhenKt.executor": "Run",
@@ -179,6 +174,7 @@
     "Kotlin.SecondaryconstructorKt.executor": "Run",
     "Kotlin.SingleExpressionFuncrtionKt.executor": "Run",
     "Kotlin.SingletonObjectKt.executor": "Run",
+    "Kotlin.StarProjectionKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.SuperConstructorKt.executor": "Run",
     "Kotlin.SuperKeywordKt.executor": "Run",
@@ -188,6 +184,8 @@
     "Kotlin.TodoListAppKt.executor": "Run",
     "Kotlin.TrailingLambdaKt.executor": "Run",
     "Kotlin.TypeCheckKt.executor": "Run",
+    "Kotlin.TypeErasureKt.executor": "Run",
+    "Kotlin.TypeProjectionKt.executor": "Run",
     "Kotlin.UnitReturningFunctionsKt.executor": "Run",
     "Kotlin.VariableKt.executor": "Run",
     "Kotlin.VisibilityModifierKt.executor": "Run",
@@ -202,7 +200,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/LearnKotlin",
+    "last_opened_file_path": "D:/LearnKotlin/BelajarDasarKotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -212,7 +210,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -226,56 +224,62 @@
       <recent name="belajar.oop.kotlin.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PolimorphismKt">
-    <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.AbstractClassKt" />
+  <component name="RunManager" selected="Application.Faktorial">
+    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.dasar.Faktorial" />
+      <module name="BelajarDasarKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belajar.kotlin.dasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericExtentionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.generic.app.GenericExtentionFunctionsKt" />
       <module name="BelajarDasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnnotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.AnnotationKt" />
+    <configuration name="ObservablePropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.generic.app.ObservablePropertyKt" />
       <module name="BelajarDasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolimorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.PolimorphismKt" />
+    <configuration name="ReadWritePropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.generic.app.ReadWritePropertyKt" />
       <module name="BelajarDasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.ReflectionKt" />
-      <module name="BelajarDasarKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScopeFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.ScopeFunctionKt" />
+    <configuration name="RecursifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.dasar.RecursifKt" />
       <module name="BelajarDasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.AbstractClassKt" />
-      <item itemvalue="Kotlin.AnnotationKt" />
-      <item itemvalue="Kotlin.PolimorphismKt" />
-      <item itemvalue="Kotlin.ReflectionKt" />
-      <item itemvalue="Kotlin.ScopeFunctionKt" />
+      <item itemvalue="Application.Faktorial" />
+      <item itemvalue="Kotlin.GenericExtentionFunctionsKt" />
+      <item itemvalue="Kotlin.ObservablePropertyKt" />
+      <item itemvalue="Kotlin.ReadWritePropertyKt" />
+      <item itemvalue="Kotlin.RecursifKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PolimorphismKt" />
-        <item itemvalue="Kotlin.ScopeFunctionKt" />
-        <item itemvalue="Kotlin.ReflectionKt" />
-        <item itemvalue="Kotlin.AbstractClassKt" />
-        <item itemvalue="Kotlin.AnnotationKt" />
+        <item itemvalue="Application.Faktorial" />
+        <item itemvalue="Kotlin.RecursifKt" />
+        <item itemvalue="Kotlin.GenericExtentionFunctionsKt" />
+        <item itemvalue="Kotlin.ObservablePropertyKt" />
+        <item itemvalue="Kotlin.ReadWritePropertyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -312,11 +316,29 @@
       <workItem from="1722355256903" duration="796000" />
       <workItem from="1722373370817" duration="5468000" />
       <workItem from="1722483604702" duration="11135000" />
+      <workItem from="1722514629643" duration="130000" />
+      <workItem from="1722514770104" duration="45000" />
+      <workItem from="1722810019687" duration="81000" />
+      <workItem from="1722810131202" duration="423000" />
+      <workItem from="1722810725547" duration="5922000" />
+      <workItem from="1722834202099" duration="1614000" />
+      <workItem from="1722839922163" duration="3914000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -391,15 +413,6 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractClass.kt</url>
-          <line>6</line>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/Main.kt</url>
           <line>2</line>
           <properties method="main">
@@ -409,13 +422,13 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/Polimorphism.kt</url>
-          <line>7</line>
+          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractPropertiesAndFunction.kt</url>
+          <line>5</line>
           <properties method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/ExtensionFunction.kt</url>
@@ -431,6 +444,11 @@
           <url>file://$PROJECT_DIR$/src/Main.kt</url>
           <line>11</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractPropertiesAndFunction.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
