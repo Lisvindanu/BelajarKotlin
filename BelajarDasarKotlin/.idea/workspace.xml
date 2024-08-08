@@ -5,29 +5,277 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelajarDasarKotlin1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Collection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Iterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/ListIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableCollection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableIterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableListIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Pair.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/mutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/data/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BelajarDasarKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BelajarDasarKotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/META-INF/BelajarDasarKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/META-INF/BelajarDasarKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/META-INF/BelajarDasarKotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/App/TodoListAppKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/Entity/TodoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/Repository/TodoListRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/Repository/TodoListRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/Services/TodoListServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/Services/TodoListServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/Util/InputUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/ProjectD/view/TodoListView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/AnonymousFunctionKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/AnonymousFunctionKt$main$upper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/AnonymousFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/BooleanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/BreakAndContinoueKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/CharKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ClosureKt$main$anonymousIncrement$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ClosureKt$main$lambdaIncrement$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/CommentsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/DoWhileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ExtensionFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FactorialKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/Faktorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ForKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ForRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionDefaultParamKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionInfixNotationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionNamedArgumentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionReturnTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionScopeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionVarArgsParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/FunctionsParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/HelloWorldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/HigherOrderFunctionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/HigherOrderFunctionsKt$main$lambdaUpper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/HigherOrderFunctionsKt$main$result$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/HigherOrderFunctionsKt$main$result1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/HigherOrderFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/IfExpresionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/InlineFunctionsKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/InlineFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LabelKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LabelKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LambdaExpressionKt$main$contohLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LambdaExpressionKt$main$sayHello$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LambdaExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LambdaMethodReferencesKt$main$toLowerCase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LambdaMethodReferencesKt$main$toUpperCase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/LambdaMethodReferencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/MainParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/MathOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/NumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/OperasiBooleanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/OperasiPerbandinganKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/PackageKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/RangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/RecursifKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/RecursiveFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/ReturnIfWhenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/SingleExpressionFuncrtionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/StringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/TailRecursiveFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/TrailingLambdaKt$main$result$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/TrailingLambdaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/UnitReturningFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/VariableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/WhenExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/dasar/WhileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/CanSayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Car$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Car$special$$inlined$vetoable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Company2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/ComparableInterfaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Contravariant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/ContravariantKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Covariant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/CovariantKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/GenericClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/GenericConstraintKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/GenericExtentionFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/GenericFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Invariant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/InvariantKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/LogReadOnlyProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/NameWithLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/ObservablePropertyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/ReadOnlyPropertyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/ReadWritePropertyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/StarProjectionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/StringLogReadWriteProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/TypeErasure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/TypeErasureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/TypeProjectionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/VicePresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/app/logObservableProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/data/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/data/Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/kotlin/generic/data/MyData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/Exception/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/annotations/Beta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/annotations/ExampleTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/annotations/Fancy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/annotations/NotBlank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AbstractClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AbstractPropertiesAndFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AnnotationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AnonymousClassKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AnonymousClassKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AnonymousClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/AnyClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/DataClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/DelegationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/DestructuringDeclarationKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/DestructuringDeclarationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/EnumKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/EqualsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ExceptionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ExtensionFunctonKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/FunctionOverloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/FunctionsClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/GetterSetterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/HashCodeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/InheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/InlineClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/InnerClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/InterfaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/KalkulatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/LateInitializedPropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/LazyPropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/NullSafetyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ObservablePropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/OperatorOverloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/PolimorphismKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/PropertiesConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/PropertiesOverridingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ReflectionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/SampleAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ScopeFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/SealedClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/SecondaryconstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/SingletonObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/SuperConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/SuperKeywordKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/TestInheritance/Jutsu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/TestInheritance/MainInheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/TestInheritance/Ninja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ThisKeywordKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/ToStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/TypeAliasKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/TypeAliasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/TypeCheckKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/app/VisibilityModifierKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Account$name$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Account$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Application$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/BigNote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Boss$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/CreateCategoryRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/CreateProductRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Delegate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Delegate1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/ExecutiveCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Go$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Go.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/HandPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Interaction$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Interaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Lari$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Lari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Mahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MahasiswaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Modulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MoveA$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MoveA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MoveB$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MoveB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MyBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/MyBaseDelegate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Nilai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Ninja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/PremiumCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/SmarthPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/SuperManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/SuperTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Television.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/Utilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/VicePresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/bisaExtendClassLain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data/hanyaBisaSatu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/data2/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/belajar/oop/kotlin/program/MyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin/com/company/belajar/util/StringUtilKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Faktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Faktorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Recursif.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/Recursif.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ComparableInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ComparableInterface.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Contravariant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Contravariant.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Covariant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Covariant.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericConstraint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericConstraint.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericExtentionFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericExtentionFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/GenericFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Invariant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/Invariant.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ObservableProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ObservableProperty.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadOnlyProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadOnlyProperty.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadWriteProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/ReadWriteProperty.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/StarProjection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/StarProjection.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeErasure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeErasure.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeProjection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/app/TypeProjection.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Fruit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Fruit.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/Function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/MyData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/generic/data/MyData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/kotlin/dasar/factorial.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/kotlin/dasar/factorial.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +292,9 @@
         <option value="Kotlin Object" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Annotation" />
+        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,6 +306,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lisvindanu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lisvindanu/BelajarKotlin.git&quot;,
+    &quot;accountId&quot;: &quot;d680d23c-cff0-411e-84b9-a3d6ea4a7b7e&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractClass.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -94,10 +354,13 @@
     "Kotlin.AnonymousFunctionKt.executor": "Run",
     "Kotlin.AnyClassKt.executor": "Run",
     "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.ArraysKt.executor": "Run",
+    "Kotlin.BooleanKt (1).executor": "Run",
     "Kotlin.BooleanKt.executor": "Run",
     "Kotlin.BreakAndContinoueKt.executor": "Run",
     "Kotlin.CharKt.executor": "Run",
     "Kotlin.ClosureKt.executor": "Run",
+    "Kotlin.CollectionKt.executor": "Run",
     "Kotlin.ComparableInterfaceKt.executor": "Run",
     "Kotlin.ConstructorKt.executor": "Run",
     "Kotlin.ContravariantKt.executor": "Run",
@@ -139,17 +402,28 @@
     "Kotlin.InlineFunctionsKt.executor": "Run",
     "Kotlin.InnerClassKt.executor": "Run",
     "Kotlin.InterfaceKt.executor": "Run",
+    "Kotlin.IterableKt.executor": "Run",
     "Kotlin.KalkulatorKt.executor": "Run",
     "Kotlin.LabelKt.executor": "Run",
     "Kotlin.LambdaExpressionKt.executor": "Run",
     "Kotlin.LambdaMethodReferencesKt.executor": "Run",
     "Kotlin.LateInitializedPropertiesKt.executor": "Run",
     "Kotlin.LazyPropertiesKt.executor": "Run",
+    "Kotlin.ListIteratorKt.executor": "Run",
+    "Kotlin.ListKt.executor": "Run",
     "Kotlin.MainInheritanceKt (1).executor": "Run",
     "Kotlin.MainInheritanceKt.executor": "Run",
+    "Kotlin.MainKt (1).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.MainParameterKt.executor": "Run",
+    "Kotlin.MapKt.executor": "Run",
     "Kotlin.MathOperatorKt.executor": "Run",
+    "Kotlin.MutableCollectionKt.executor": "Run",
+    "Kotlin.MutableIterableKt.executor": "Run",
+    "Kotlin.MutableListIteratorKt.executor": "Run",
+    "Kotlin.MutableListKt.executor": "Run",
+    "Kotlin.MutableMapKt.executor": "Run",
+    "Kotlin.MutableSetKt.executor": "Run",
     "Kotlin.NullSafetyKt.executor": "Run",
     "Kotlin.NumberKt.executor": "Run",
     "Kotlin.ObjectKt.executor": "Run",
@@ -159,6 +433,7 @@
     "Kotlin.OperasiPerbandinganKt.executor": "Run",
     "Kotlin.OperatorOverloadingKt.executor": "Run",
     "Kotlin.PackageKt.executor": "Run",
+    "Kotlin.PairKt.executor": "Run",
     "Kotlin.PolimorphismKt.executor": "Run",
     "Kotlin.PropertiesConstructorKt.executor": "Run",
     "Kotlin.PropertiesOverridingKt.executor": "Run",
@@ -172,6 +447,7 @@
     "Kotlin.ScopeFunctionKt.executor": "Run",
     "Kotlin.SealedClassKt.executor": "Run",
     "Kotlin.SecondaryconstructorKt.executor": "Run",
+    "Kotlin.SetKt.executor": "Run",
     "Kotlin.SingleExpressionFuncrtionKt.executor": "Run",
     "Kotlin.SingletonObjectKt.executor": "Run",
     "Kotlin.StarProjectionKt.executor": "Run",
@@ -196,7 +472,9 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
@@ -210,7 +488,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -224,69 +502,57 @@
       <recent name="belajar.oop.kotlin.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Faktorial">
-    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.dasar.Faktorial" />
-      <module name="BelajarDasarKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="belajar.kotlin.dasar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Kotlin.MutableListIteratorKt">
+    <configuration name="IterableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.IterableKt" />
+      <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericExtentionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.generic.app.GenericExtentionFunctionsKt" />
-      <module name="BelajarDasarKotlin" />
+    <configuration name="ListIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.ListIteratorKt" />
+      <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObservablePropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.generic.app.ObservablePropertyKt" />
-      <module name="BelajarDasarKotlin" />
+    <configuration name="MutableCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.MutableCollectionKt" />
+      <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWritePropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.generic.app.ReadWritePropertyKt" />
-      <module name="BelajarDasarKotlin" />
+    <configuration name="MutableIterableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.MutableIterableKt" />
+      <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.kotlin.dasar.RecursifKt" />
-      <module name="BelajarDasarKotlin" />
+    <configuration name="MutableListIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.MutableListIteratorKt" />
+      <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Faktorial" />
-      <item itemvalue="Kotlin.GenericExtentionFunctionsKt" />
-      <item itemvalue="Kotlin.ObservablePropertyKt" />
-      <item itemvalue="Kotlin.ReadWritePropertyKt" />
-      <item itemvalue="Kotlin.RecursifKt" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Faktorial" />
-        <item itemvalue="Kotlin.RecursifKt" />
-        <item itemvalue="Kotlin.GenericExtentionFunctionsKt" />
-        <item itemvalue="Kotlin.ObservablePropertyKt" />
-        <item itemvalue="Kotlin.ReadWritePropertyKt" />
+        <item itemvalue="Kotlin.MutableListIteratorKt" />
+        <item itemvalue="Kotlin.ListIteratorKt" />
+        <item itemvalue="Kotlin.MutableIterableKt" />
+        <item itemvalue="Kotlin.IterableKt" />
+        <item itemvalue="Kotlin.MutableCollectionKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -323,6 +589,20 @@
       <workItem from="1722810725547" duration="5922000" />
       <workItem from="1722834202099" duration="1614000" />
       <workItem from="1722839922163" duration="3914000" />
+      <workItem from="1722846921261" duration="23000" />
+      <workItem from="1723151490369" duration="605000" />
+      <workItem from="1723152111183" duration="199000" />
+      <workItem from="1723152336426" duration="19000" />
+      <workItem from="1723152385403" duration="29000" />
+      <workItem from="1723152421455" duration="561000" />
+      <workItem from="1723153359546" duration="409000" />
+      <workItem from="1723153799717" duration="40000" />
+      <workItem from="1723153847476" duration="41000" />
+      <workItem from="1723153894464" duration="72000" />
+      <workItem from="1723153980772" duration="34000" />
+      <workItem from="1723154021009" duration="39000" />
+      <workItem from="1723154070473" duration="368000" />
+      <workItem from="1723154512671" duration="5413000" />
     </task>
     <servers />
   </component>
@@ -344,111 +624,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/Range.kt</url>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/MathOperator.kt</url>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/FunctionVarArgsParameter.kt</url>
-          <line>10</line>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/InlineFunctions.kt</url>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/object.kt</url>
-          <line>4</line>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/propertiesOverriding.kt</url>
-          <line>6</line>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/TypeCheck.kt</url>
-          <line>44</line>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/ProjectD/App/TodoListApp.kt</url>
-          <line>8</line>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <url>file://$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableMap.kt</url>
           <line>2</line>
           <properties method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractPropertiesAndFunction.kt</url>
-          <line>5</line>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/ExtensionFunction.kt</url>
-          <line>3</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/belajar/kotlin/dasar/TailRecursiveFunctions.kt</url>
-          <line>1</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
-          <line>11</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractPropertiesAndFunction.kt</url>
-          <line>6</line>
-          <option name="timeStamp" value="31" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

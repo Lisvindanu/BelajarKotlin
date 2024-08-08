@@ -1,6 +1,6 @@
 package belajar.kotlin.dasar
 
-fun main() {
+fun main(args: Array<String>) {
     fun factorialLoop(value:Int): Int {
         var result = 1
         for(i in value downTo 1) {

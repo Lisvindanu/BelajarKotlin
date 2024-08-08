@@ -14,7 +14,7 @@
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" name="LearnKotlin" level="application" />
+    <orderEntry type="library" exported="" name="LearnKotlin" level="application" />
     <orderEntry type="library" exported="" name="jetbrains.kotlin.reflect" level="project" />
   </component>
 </module>
