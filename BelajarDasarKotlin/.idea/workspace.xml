@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Annotation" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lisvindanu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lisvindanu/BelajarKotlin.git&quot;,
+    &quot;accountId&quot;: &quot;d680d23c-cff0-411e-84b9-a3d6ea4a7b7e&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/belajar/oop/kotlin/app/AbstractClass.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\php8\php-8.3.0-Win32-vs16-x64\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2j9OsXqhChBCwTmT3h95Ea1V8qi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Faktorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Kotlin.AbstractClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AbstractPropertiesAndFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AnnotationKt.executor&quot;: &quot;Coverage&quot;,
+    &quot;Kotlin.AnonymousClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AnonymousFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AnyClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArraysKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AssociationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.BooleanKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.BooleanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.BreakAndContinoueKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CharKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ClosureKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CollectionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ComparableInterfaceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ConstructorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContravariantKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CovariantKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DataClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DelegationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DestructuringDeclarationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DoWhileKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.EnumKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.EqualsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExceptionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExtensionFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExtensionFunctonKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FactorialKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FilteringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FlatteningKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ForEachKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ForKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ForRangeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionDefaultParamKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionNamedArgumentKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionOverloadingKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.FunctionReturnTypeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionScopeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionVarArgsParameterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsParameterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GenericClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GenericExtentionFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GenericFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GetSetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GetterSetterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GroupingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HashCodeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HelloWorldKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HigherOrderFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.IfExpresionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InfixNotationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InheritanceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InlineClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InlineFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InnerClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InterfaceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.IterableKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.KalkulatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.KonversiCollectionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LabelKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LambdaExpressionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LambdaMethodReferencesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LateInitializedPropertiesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LazyPropertiesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListIteratorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainInheritanceKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainInheritanceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainParameterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MappingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MappingMapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MathOperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableCollectionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableIterableKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableListIteratorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableListKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableMapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableSetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NullSafetyKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NumberKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ObjectKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ObservablePropertiesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ObservablePropertyKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperasiBooleanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperasiPerbandinganKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperatorOverloadingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PackageKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PairKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PartitioningKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.PlusAndMinusOperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PolimorphismKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PropertiesConstructorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PropertiesOverridingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RangeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReadOnlyPropertyKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReadWritePropertyKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RecursifKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RecursiveFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReflectionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReturnIfWhenKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ScopeFunctionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SealedClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SecondaryconstructorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SingleExpressionFuncrtionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SingletonObjectKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SliceOperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StarProjectionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StringRepresentationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SuperConstructorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SuperKeywordKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TailRecursiveFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TestingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ThisKeywordKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ToStringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TodoListAppKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TrailingLambdaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TypeCheckKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TypeErasureKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TypeProjectionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UnitReturningFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.UnzipKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VariableKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VisibilityModifierKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhenExpressionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhileKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ZippingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/LearnKotlin/BelajarDasarKotlin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/LearnKotlin/BelajarDasarKotlin/src/Main.kt&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\oop\kotlin\app" />
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src" />
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\kotlin\dasar" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="belajar.oop.kotlin.app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FilteringKt">
+    <configuration name="FilteringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.FilteringKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.GroupingKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusAndMinusOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.PlusAndMinusOperatorKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SliceOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.SliceOperatorKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.TestingKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FilteringKt" />
+        <item itemvalue="Kotlin.SliceOperatorKt" />
+        <item itemvalue="Kotlin.GroupingKt" />
+        <item itemvalue="Kotlin.PlusAndMinusOperatorKt" />
+        <item itemvalue="Kotlin.TestingKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lisvi\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="" />
+      <created>1720796043490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720796043490</updated>
+      <workItem from="1720796044552" duration="4775000" />
+      <workItem from="1720801020454" duration="3369000" />
+      <workItem from="1721567577771" duration="15240000" />
+      <workItem from="1721588923235" duration="4000" />
+      <workItem from="1721978914526" duration="827000" />
+      <workItem from="1721979768378" duration="8596000" />
+      <workItem from="1721988433269" duration="5638000" />
+      <workItem from="1722129657500" duration="10248000" />
+      <workItem from="1722158222581" duration="67000" />
+      <workItem from="1722158415817" duration="4523000" />
+      <workItem from="1722353275768" duration="29000" />
+      <workItem from="1722354057688" duration="129000" />
+      <workItem from="1722354195734" duration="673000" />
+      <workItem from="1722355035840" duration="23000" />
+      <workItem from="1722355209506" duration="33000" />
+      <workItem from="1722355256903" duration="796000" />
+      <workItem from="1722373370817" duration="5468000" />
+      <workItem from="1722483604702" duration="11135000" />
+      <workItem from="1722514629643" duration="130000" />
+      <workItem from="1722514770104" duration="45000" />
+      <workItem from="1722810019687" duration="81000" />
+      <workItem from="1722810131202" duration="423000" />
+      <workItem from="1722810725547" duration="5922000" />
+      <workItem from="1722834202099" duration="1614000" />
+      <workItem from="1722839922163" duration="3914000" />
+      <workItem from="1722846921261" duration="23000" />
+      <workItem from="1723151490369" duration="605000" />
+      <workItem from="1723152111183" duration="199000" />
+      <workItem from="1723152336426" duration="19000" />
+      <workItem from="1723152385403" duration="29000" />
+      <workItem from="1723152421455" duration="561000" />
+      <workItem from="1723153359546" duration="409000" />
+      <workItem from="1723153799717" duration="40000" />
+      <workItem from="1723153847476" duration="41000" />
+      <workItem from="1723153894464" duration="72000" />
+      <workItem from="1723153980772" duration="34000" />
+      <workItem from="1723154021009" duration="39000" />
+      <workItem from="1723154070473" duration="368000" />
+      <workItem from="1723154512671" duration="5413000" />
+      <workItem from="1723170818969" duration="3780000" />
+      <workItem from="1723189349217" duration="113000" />
+      <workItem from="1723268487123" duration="23000" />
+      <workItem from="1723474124466" duration="9487000" />
+      <workItem from="1723489733061" duration="20000" />
+      <workItem from="1723489770062" duration="780000" />
+      <workItem from="1723498125812" duration="9000" />
+      <workItem from="1723498301192" duration="188000" />
+      <workItem from="1723498536385" duration="10000" />
+      <workItem from="1723498643063" duration="74000" />
+      <workItem from="1723498727813" duration="41000" />
+      <workItem from="1723499197948" duration="1429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/collection/kotlin/app/MutableMap.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BelajarDasarKotlin$AnnotationKt.ic" NAME="AnnotationKt Coverage Results" MODIFIED="1722506221933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
