@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/TakeAndDrop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/RetriveBy/Position.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Chunked.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/WindowedOperator.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin1/META-INF/BelajarDasarKotlin1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BelajarDasarKotlin1/META-INF/BelajarDasarKotlin1.kotlin_module" afterDir="false" />
     </list>
@@ -93,6 +95,7 @@
     "Kotlin.BooleanKt.executor": "Run",
     "Kotlin.BreakAndContinoueKt.executor": "Run",
     "Kotlin.CharKt.executor": "Run",
+    "Kotlin.ChunkedKt.executor": "Run",
     "Kotlin.ClosureKt.executor": "Run",
     "Kotlin.CollectionKt.executor": "Run",
     "Kotlin.ComparableInterfaceKt.executor": "Run",
@@ -178,6 +181,7 @@
     "Kotlin.PartitioningKt.executor": "Debug",
     "Kotlin.PlusAndMinusOperatorKt.executor": "Run",
     "Kotlin.PolimorphismKt.executor": "Run",
+    "Kotlin.PositionKt.executor": "Run",
     "Kotlin.PropertiesConstructorKt.executor": "Run",
     "Kotlin.PropertiesOverridingKt.executor": "Run",
     "Kotlin.RangeKt.executor": "Run",
@@ -215,6 +219,7 @@
     "Kotlin.VisibilityModifierKt.executor": "Run",
     "Kotlin.WhenExpressionKt.executor": "Run",
     "Kotlin.WhileKt.executor": "Run",
+    "Kotlin.WindowedOperatorKt.executor": "Run",
     "Kotlin.ZippingKt.executor": "Run",
     "Repository.Attach.Annotations": "true",
     "Repository.Attach.JavaDocs": "false",
@@ -237,7 +242,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Subversion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -251,7 +256,14 @@
       <recent name="belajar.oop.kotlin.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TakeAndDropKt">
+  <component name="RunManager" selected="Kotlin.PositionKt">
+    <configuration name="ChunkedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.ChunkedKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilteringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.FilteringKt" />
       <module name="BelajarDasarKotlin1" />
@@ -259,22 +271,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.GroupingKt" />
-      <module name="BelajarDasarKotlin1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlusAndMinusOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.PlusAndMinusOperatorKt" />
-      <module name="BelajarDasarKotlin1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SliceOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.SliceOperatorKt" />
+    <configuration name="PositionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.RetriveBy.PositionKt" />
       <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -287,13 +285,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WindowedOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.WindowedOperatorKt" />
+      <module name="BelajarDasarKotlin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PositionKt" />
+        <item itemvalue="Kotlin.WindowedOperatorKt" />
+        <item itemvalue="Kotlin.ChunkedKt" />
         <item itemvalue="Kotlin.TakeAndDropKt" />
         <item itemvalue="Kotlin.FilteringKt" />
-        <item itemvalue="Kotlin.SliceOperatorKt" />
-        <item itemvalue="Kotlin.GroupingKt" />
-        <item itemvalue="Kotlin.PlusAndMinusOperatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -369,6 +374,10 @@
       <workItem from="1723499197948" duration="1429000" />
       <workItem from="1723502012413" duration="71000" />
       <workItem from="1723502098991" duration="548000" />
+      <workItem from="1723574602338" duration="1347000" />
+      <workItem from="1723585675804" duration="34000" />
+      <workItem from="1723585716509" duration="1501000" />
+      <workItem from="1723587253149" duration="347000" />
     </task>
     <servers />
   </component>
