@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0198c987-7987-4277-9b23-865cd1f0eaf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/RetriveBy/Position.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Chunked.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/WindowedOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/RetriveBy/Random.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/AggregateOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/CheckingExistence.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/FoldAndReduce.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/GroupingInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/ListOperation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/MapOperation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/PropertiesMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/Sequence.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/SetOperation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/app/bukanSequence.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/data/Fruit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/ordering/OrderingNatural.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/ordering/OrderingReverse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/ordering/RandomOrder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/ordering/customOrdering.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin1/META-INF/BelajarDasarKotlin1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BelajarDasarKotlin1/META-INF/BelajarDasarKotlin1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BelajarDasarKotlin1/belajar/collection/kotlin/RetriveBy/ConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BelajarDasarKotlin1/belajar/collection/kotlin/RetriveBy/ConditionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/collection/kotlin/RetriveBy/Condition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/collection/kotlin/RetriveBy/Condition.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/DestructuringDeclaration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/oop/kotlin/app/DestructuringDeclaration.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +100,7 @@
     "Downloaded.Files.Path.Enabled": "true",
     "Kotlin.AbstractClassKt.executor": "Run",
     "Kotlin.AbstractPropertiesAndFunctionKt.executor": "Run",
+    "Kotlin.AggregateOperatorKt.executor": "Run",
     "Kotlin.AnnotationKt.executor": "Coverage",
     "Kotlin.AnonymousClassKt.executor": "Run",
     "Kotlin.AnonymousFunctionKt.executor": "Run",
@@ -94,14 +111,18 @@
     "Kotlin.BooleanKt (1).executor": "Run",
     "Kotlin.BooleanKt.executor": "Run",
     "Kotlin.BreakAndContinoueKt.executor": "Run",
+    "Kotlin.BukanSequenceKt.executor": "Run",
     "Kotlin.CharKt.executor": "Run",
+    "Kotlin.CheckingExistenceKt.executor": "Run",
     "Kotlin.ChunkedKt.executor": "Run",
     "Kotlin.ClosureKt.executor": "Run",
     "Kotlin.CollectionKt.executor": "Run",
     "Kotlin.ComparableInterfaceKt.executor": "Run",
+    "Kotlin.ConditionKt.executor": "Run",
     "Kotlin.ConstructorKt.executor": "Run",
     "Kotlin.ContravariantKt.executor": "Run",
     "Kotlin.CovariantKt.executor": "Run",
+    "Kotlin.CustomOrderingKt.executor": "Run",
     "Kotlin.DataClassKt.executor": "Run",
     "Kotlin.DelegationKt.executor": "Run",
     "Kotlin.DestructuringDeclarationKt.executor": "Run",
@@ -114,6 +135,7 @@
     "Kotlin.FactorialKt.executor": "Run",
     "Kotlin.FilteringKt.executor": "Run",
     "Kotlin.FlatteningKt.executor": "Run",
+    "Kotlin.FoldAndReduceKt.executor": "Run",
     "Kotlin.ForEachKt.executor": "Run",
     "Kotlin.ForKt.executor": "Run",
     "Kotlin.ForRangeKt.executor": "Run",
@@ -132,6 +154,7 @@
     "Kotlin.GenericFunctionsKt.executor": "Run",
     "Kotlin.GetSetKt.executor": "Run",
     "Kotlin.GetterSetterKt.executor": "Run",
+    "Kotlin.GroupingInterfaceKt.executor": "Run",
     "Kotlin.GroupingKt.executor": "Run",
     "Kotlin.HashCodeKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
@@ -153,12 +176,14 @@
     "Kotlin.LazyPropertiesKt.executor": "Run",
     "Kotlin.ListIteratorKt.executor": "Run",
     "Kotlin.ListKt.executor": "Run",
+    "Kotlin.ListOperationKt.executor": "Run",
     "Kotlin.MainInheritanceKt (1).executor": "Run",
     "Kotlin.MainInheritanceKt.executor": "Run",
     "Kotlin.MainKt (1).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.MainParameterKt.executor": "Run",
     "Kotlin.MapKt.executor": "Run",
+    "Kotlin.MapOperationKt.executor": "Run",
     "Kotlin.MappingKt.executor": "Run",
     "Kotlin.MappingMapKt.executor": "Run",
     "Kotlin.MathOperatorKt.executor": "Run",
@@ -176,6 +201,8 @@
     "Kotlin.OperasiBooleanKt.executor": "Run",
     "Kotlin.OperasiPerbandinganKt.executor": "Run",
     "Kotlin.OperatorOverloadingKt.executor": "Run",
+    "Kotlin.OrderingNaturalKt.executor": "Run",
+    "Kotlin.OrderingReverseKt.executor": "Run",
     "Kotlin.PackageKt.executor": "Run",
     "Kotlin.PairKt.executor": "Run",
     "Kotlin.PartitioningKt.executor": "Debug",
@@ -183,7 +210,10 @@
     "Kotlin.PolimorphismKt.executor": "Run",
     "Kotlin.PositionKt.executor": "Run",
     "Kotlin.PropertiesConstructorKt.executor": "Run",
+    "Kotlin.PropertiesMapKt.executor": "Run",
     "Kotlin.PropertiesOverridingKt.executor": "Run",
+    "Kotlin.RandomKt.executor": "Run",
+    "Kotlin.RandomOrderKt.executor": "Run",
     "Kotlin.RangeKt.executor": "Run",
     "Kotlin.ReadOnlyPropertyKt.executor": "Run",
     "Kotlin.ReadWritePropertyKt.executor": "Run",
@@ -194,7 +224,9 @@
     "Kotlin.ScopeFunctionKt.executor": "Run",
     "Kotlin.SealedClassKt.executor": "Run",
     "Kotlin.SecondaryconstructorKt.executor": "Run",
+    "Kotlin.SequenceKt.executor": "Run",
     "Kotlin.SetKt.executor": "Run",
+    "Kotlin.SetOperationKt.executor": "Run",
     "Kotlin.SingleExpressionFuncrtionKt.executor": "Run",
     "Kotlin.SingletonObjectKt.executor": "Run",
     "Kotlin.SliceOperatorKt.executor": "Run",
@@ -242,12 +274,13 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "discord-application",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\collection\kotlin\ordering" />
       <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\oop\kotlin\app" />
       <recent name="D:\LearnKotlin\BelajarDasarKotlin\src" />
       <recent name="D:\LearnKotlin\BelajarDasarKotlin\src\belajar\kotlin\dasar" />
@@ -256,37 +289,37 @@
       <recent name="belajar.oop.kotlin.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PositionKt">
-    <configuration name="ChunkedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.ChunkedKt" />
+  <component name="RunManager" selected="Kotlin.DestructuringMapKt">
+    <configuration name="BukanSequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.BukanSequenceKt" />
       <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilteringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.FilteringKt" />
+    <configuration name="DestructuringDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.oop.kotlin.app.DestructuringDeclarationKt" />
       <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.RetriveBy.PositionKt" />
+    <configuration name="DestructuringMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.DestructuringMapKt" />
       <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeAndDropKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.TakeAndDropKt" />
+    <configuration name="PropertiesMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.PropertiesMapKt" />
       <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowedOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.WindowedOperatorKt" />
+    <configuration name="SequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.collection.kotlin.app.SequenceKt" />
       <module name="BelajarDasarKotlin1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -294,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PositionKt" />
-        <item itemvalue="Kotlin.WindowedOperatorKt" />
-        <item itemvalue="Kotlin.ChunkedKt" />
-        <item itemvalue="Kotlin.TakeAndDropKt" />
-        <item itemvalue="Kotlin.FilteringKt" />
+        <item itemvalue="Kotlin.DestructuringMapKt" />
+        <item itemvalue="Kotlin.DestructuringDeclarationKt" />
+        <item itemvalue="Kotlin.PropertiesMapKt" />
+        <item itemvalue="Kotlin.SequenceKt" />
+        <item itemvalue="Kotlin.BukanSequenceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +410,7 @@
       <workItem from="1723574602338" duration="1347000" />
       <workItem from="1723585675804" duration="34000" />
       <workItem from="1723585716509" duration="1501000" />
-      <workItem from="1723587253149" duration="347000" />
+      <workItem from="1723587253149" duration="8199000" />
     </task>
     <servers />
   </component>
@@ -411,6 +444,29 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/collection/kotlin/RetriveBy/Condition.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/belajar/collection/kotlin/app/MapOperation.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/belajar/collection/kotlin/app/Sequence.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

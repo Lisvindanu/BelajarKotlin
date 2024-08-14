@@ -7,8 +7,8 @@ import belajar.oop.kotlin.data.MinMax
 
 fun minMax(val1 : Int, val2: Int): MinMax {
     return when {
-        val1 > val2 -> MinMax(val2, val2)
-        else -> minMax(val1 , val2)
+        val1 > val2 -> MinMax(val2, val1)
+        else -> MinMax(val1, val2)
     }
 }
 
@@ -37,10 +37,8 @@ fun main() {
 //        }
 //    }
 
-    login(login) {(username, password) ->
+    val loginResult = login(login) {(username, password) ->
         username == "Danu" && password == "Rahasia"
     }
-
-
-
+  println(loginResult)
 }
